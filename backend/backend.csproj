@@ -4,4 +4,10 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Tic-tac-toe\obj\project.assets.json" />
+      <_ContentIncludedByDefault Remove="Tic-tac-toe\obj\project.packagespec.json" />
+      <_ContentIncludedByDefault Remove="Tic-tac-toe\obj\Tic-tac-toe.csproj.nuget.dgspec.json" />
+    </ItemGroup>
+
 </Project>
